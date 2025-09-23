@@ -1,0 +1,11 @@
+C:\Users\Gusta\source\repos\Pimc\Pimc\bin\Debug\Pimc.exe.config
+C:\Users\Gusta\source\repos\Pimc\Pimc\bin\Debug\Pimc.exe
+C:\Users\Gusta\source\repos\Pimc\Pimc\bin\Debug\Pimc.pdb
+C:\Users\Gusta\source\repos\Pimc\Pimc\obj\Debug\Pimc.csproj.AssemblyReference.cache
+C:\Users\Gusta\source\repos\Pimc\Pimc\obj\Debug\Pimc.Form1.resources
+C:\Users\Gusta\source\repos\Pimc\Pimc\obj\Debug\Pimc.Properties.Resources.resources
+C:\Users\Gusta\source\repos\Pimc\Pimc\obj\Debug\Pimc.csproj.GenerateResource.cache
+C:\Users\Gusta\source\repos\Pimc\Pimc\obj\Debug\Pimc.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\source\repos\Pimc\Pimc\obj\Debug\Pimc.exe
+C:\Users\Gusta\source\repos\Pimc\Pimc\obj\Debug\Pimc.pdb
+C:\Users\Gusta\source\repos\Pimc\Pimc\obj\Debug\Pimc.exe.config

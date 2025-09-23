@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gusta\\source\\repos\\Thmenom\\LP2\\Ptriangulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA9EAEE-3A1B-449A-A3FC-8C934CC1D954}|Ptriangulo\\Ptriangulo.csproj|c:\\users\\gusta\\source\\repos\\thmenom\\lp2\\ptriangulo\\ptriangulo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA9EAEE-3A1B-449A-A3FC-8C934CC1D954}|Ptriangulo\\Ptriangulo.csproj|solutionrelative:ptriangulo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA9EAEE-3A1B-449A-A3FC-8C934CC1D954}|Ptriangulo\\Ptriangulo.csproj|C:\\Users\\Gusta\\source\\repos\\Thmenom\\LP2\\Ptriangulo\\ptriangulo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBA9EAEE-3A1B-449A-A3FC-8C934CC1D954}|Ptriangulo\\Ptriangulo.csproj|solutionrelative:ptriangulo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\source\\repos\\Thmenom\\LP2\\Ptriangulo\\Ptriangulo\\Form1.cs",
+              "RelativeDocumentMoniker": "Ptriangulo\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gusta\\source\\repos\\Thmenom\\LP2\\Ptriangulo\\Ptriangulo\\Form1.cs",
+              "RelativeToolTip": "Ptriangulo\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:42:39.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gusta\\source\\repos\\Thmenom\\LP2\\Ptriangulo\\Ptriangulo\\Form1.cs",
+              "RelativeDocumentMoniker": "Ptriangulo\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gusta\\source\\repos\\Thmenom\\LP2\\Ptriangulo\\Ptriangulo\\Form1.cs [Design]",
+              "RelativeToolTip": "Ptriangulo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:40:47.382Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

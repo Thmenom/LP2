@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gusta\\source\\repos\\Pimc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F0DC5B-1FD6-40EF-8F2E-A25F674EDB3C}|Pimc\\Pimc.csproj|c:\\users\\gusta\\source\\repos\\pimc\\pimc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F0DC5B-1FD6-40EF-8F2E-A25F674EDB3C}|Pimc\\Pimc.csproj|solutionrelative:pimc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F0DC5B-1FD6-40EF-8F2E-A25F674EDB3C}|Pimc\\Pimc.csproj|c:\\users\\gusta\\source\\repos\\pimc\\pimc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2F0DC5B-1FD6-40EF-8F2E-A25F674EDB3C}|Pimc\\Pimc.csproj|solutionrelative:pimc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\source\\repos\\Pimc\\Pimc\\Form1.cs",
+              "RelativeDocumentMoniker": "Pimc\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gusta\\source\\repos\\Pimc\\Pimc\\Form1.cs",
+              "RelativeToolTip": "Pimc\\Form1.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAiwLgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:25:19.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gusta\\source\\repos\\Pimc\\Pimc\\Form1.cs",
+              "RelativeDocumentMoniker": "Pimc\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gusta\\source\\repos\\Pimc\\Pimc\\Form1.cs [Design]",
+              "RelativeToolTip": "Pimc\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:15:03.106Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
